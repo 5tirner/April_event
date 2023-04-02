@@ -6,12 +6,12 @@
 /*   By: zasabri <zasabri@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/02 01:55:16 by zasabri           #+#    #+#             */
-/*   Updated: 2023/04/02 05:14:52 by zasabri          ###   ########.fr       */
+/*   Updated: 2023/04/02 05:30:06 by zasabri          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
-#include <time.h>
+#include <sys/time.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
@@ -49,7 +49,10 @@ int main()
 	int	r;
 	while (1)
 	{
-		r = rand() % 3 + 1;
+		gettimeofday(&time, NULL);
+		int t = (time.tv_sec * 0.1)+(time.tv_sec * 0.1);
+		r = (((rand() % 10) + t) / 2) % 10;
+		//printf("%d\n", r);
 		if (r >=0 && r <= 2)
 			break;
 	}
