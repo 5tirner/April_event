@@ -1,3 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    symbolum.txt                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: zasabri <zasabri@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2023/04/04 00:33:34 by zasabri           #+#    #+#              #
+#    Updated: 2023/04/04 00:33:36 by zasabri          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
 Veh jxyi unuhsysu oek mybb xqlu je mhyju jxu fqiimeht yd q iocrebkc.jnj vybu.
 • Q29uZ3JhdHVsYXRpb25zIG9uIGRlY29kaW5nIHRoaXMgbGluZSwgdGhlIGZpcnN
 0IGxldHRlciBpczogaw==

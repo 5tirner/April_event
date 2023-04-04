@@ -1,15 +1,15 @@
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
-#    yes.sh                                             :+:      :+:    :+:    #
+#    result.txt                                         :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
 #    By: zasabri <zasabri@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2023/04/01 18:29:11 by zasabri           #+#    #+#              #
-#    Updated: 2023/04/04 00:34:11 by zasabri          ###   ########.fr        #
+#    Created: 2023/04/04 00:51:41 by zasabri           #+#    #+#              #
+#    Updated: 2023/04/04 00:53:25 by zasabri          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-#!/bin/bash
+Why did the AI break up with its girlfriend?
 
-yes yes
+She just wasn't his type...of algorithm!
